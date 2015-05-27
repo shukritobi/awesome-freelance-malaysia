@@ -18,6 +18,7 @@ A curated list of awesome freelancers from Malaysia!!
 * [Muhamad Alif bin Jamaluddin](http://www.kodegeek.net/) - #rubyonrails #aws #php #java 
 * [Muhammad Hijazi/iReka Soft](http://irekasoft.com/) - #objective-c #sketch #rails #php #bootstrap
 * [Muhammad Nizam Bin Mohd Yusop](http://picostudio.my/) - #cakephp #laravel #php #jquery #html+css #jasper-report #illustrator #photoshop
+* [Muhammad Shukry Bin Ahmad Sharby](https://github.com/shukritobi) - #3Drendering #sketchup #javascript #html+css #wordpress #bootstrap #photoshop
 
 ##N
 * [Nadiatul Alawiyah Binti Sarip](http://www.muslimshopcenter.com/) - #php #mysql #jquery #java #android #ajax #visual basic 
